@@ -1,3 +1,4 @@
+# openvpn-create-users
 **作用为批量添加用户**
 
 1. 搭建openvpn 引用的脚本为:
