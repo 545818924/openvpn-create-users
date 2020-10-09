@@ -11,11 +11,11 @@
 
 	|-- openvpn-install
 
-		  |-- create_user.sh
+	|	  |-- create_user.sh
 
-		  |-- users.txt
+	|	  |-- users.txt
 
-		  ......
+	|	  ......
 
 	|--  vpnuser
   ```
